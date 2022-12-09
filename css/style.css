@@ -1,0 +1,52 @@
+
+
+.edit_element{
+	visibility: hidden;
+}
+
+.col-xl-4{
+	background-color: #6d9c9d;
+	padding: 30px;
+	min-height: 400px;
+	border-radius: 10px;
+}
+
+h4,p{
+	letter-spacing: .7px;
+}
+
+
+input{
+	border: none;
+	outline: none;
+	background-color: transparent;
+	border-bottom: 1px solid #fff;
+	color: #fff;
+}
+
+::placeholder{
+	color: #fff;
+}
+
+
+.div_styles{
+	background-color: #332f4c;
+	border-radius: 5px;
+	color: #fff;
+	padding: 7px;
+}
+
+.div_icons{
+	padding: 5px 10px;
+	border-radius: 5px;
+	cursor: pointer;
+}
+
+.f_w{
+	font-family: 'La Belle Aurore', cursive;
+
+}
+
+.f_s{
+	font-size: 18px;
+}
